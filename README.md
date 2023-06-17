@@ -1,4 +1,4 @@
-# Servidor_Robotica
+# Servidor Local para projeto de Robotica
 ![logo](Imagens/Logo.png)
 
 Neste projeto foi construída um pagina web num servidor local na qual permite que os alunos enviem seus programas desenvolvidos em liguagem C++, para que todos testem suas aplicações em um mesmo projeto na plataforma Arduino.
