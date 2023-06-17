@@ -1,2 +1,52 @@
 # Servidor_Robotica
-Neste projeto foi construída um pagina web num servidor local para testar aplicações desenvolvidas pelos alunos
+![logo](Imagens/Logo.png)
+
+Neste projeto foi construída um pagina web num servidor local na qual permite que os alunos enviem seus programas desenvolvidos em liguagem C++, para que todos testem suas aplicações em um mesmo projeto na plataforma Arduino.
+
+
+
+### Tecnologia
+Aqui estão as tecnologias utilizadas neste projeto.
+
+* Ardunino Uno
+* Xampp
+* PHP
+  
+
+### Serviços Usados
+* Arduino IDE
+  
+
+### Plataforma compatíveis
+* Android
+
+### Situação do Projeto
+Projeto já foi encerrado
+
+### Interface
+![interface1](Imagens/interface_proj_robotic_1.png)
+![interface2](Imagens/interface_proj_robotic_2.png)
+![interface3](Imagens/interface_proj_robotic_3.png)
+
+
+### Recursos
+* Permite a leitura do banco de dados já alimentado em excel
+* Auxiliar na busca dos Epis já entregues
+
+### Links
+* [Repository](https://github.com/AlainMota9/Servidor_Robotica)
+* [Facebook](https://www.facebook.com/alain.mota.3/)
+* [Lattes](http://lattes.cnpq.br/9940114103826916)
+* [linkedin](https://www.linkedin.com/in/alain-mota-a61319117/)
+
+### Controle de versão
+1.0.0.0
+
+### Autor
+Alain L. Mota: [@AlainMota](https://github.com/AlainMota9)
+
+#### Obrigado pela Visita!
+
+![logo](Imagens/logo.png)
+
+
