@@ -11,10 +11,14 @@ Aqui estão as tecnologias utilizadas neste projeto.
 * Ardunino Uno
 * Xampp
 * PHP
+* C++
+* Linguagem Wiring Arduino
+* HTML/CSS
   
 
 ### Serviços Usados
 * Arduino IDE
+* Navegador Web
   
 
 ### Plataforma compatíveis
