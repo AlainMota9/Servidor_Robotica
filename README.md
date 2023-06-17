@@ -30,8 +30,9 @@ Projeto já foi encerrado
 
 
 ### Recursos
-* Permite a leitura do banco de dados já alimentado em excel
-* Auxiliar na busca dos Epis já entregues
+* Auxilia ao aluno buscar informações na página offline através do servidor local
+* Possibilita que os alunos postem suas aplicações para testes
+* Permite realizar dowload de programas apk para android necessários para realização das atividades
 
 ### Links
 * [Repository](https://github.com/AlainMota9/Servidor_Robotica)
